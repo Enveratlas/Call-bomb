@@ -5,4 +5,4 @@ Kurulum
 
 ```cd Call-bomb```
 
-```Python sms.py```
+```python sms.py```
